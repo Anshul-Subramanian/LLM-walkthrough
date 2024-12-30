@@ -2,9 +2,9 @@
 This repo consists of an overview of LLMs and how we can detect generated texts
 
 # Material
-Overview on LLMs (BERTs, GPTs, Usage): https://github.com/Mooler0410/LLMsPracticalGuide
-Visual explanation of common LLM networks: https://bbycroft.net/llm
-Detecting generated texts: https://github.com/junchaoIU/LLM-generated-Text-Detection
+Overview on LLMs (BERTs, GPTs, Usage): https://github.com/Mooler0410/LLMsPracticalGuide <br>
+Visual explanation of common LLM networks: https://bbycroft.net/llm <br>
+Detecting generated texts: https://github.com/junchaoIU/LLM-generated-Text-Detection <br>
 
 # Conda Setup 
 
