@@ -38,7 +38,7 @@ cd tensorflow-test
 2. conda create --name myenv
 3. conda activate myenv
 4. for MacOS only
-   '''
+   ''' python
    conda install -c apple tensorflow-deps
    python -m pip install tensorflow-macos
    python -m pip install tensorflow-metal
@@ -46,6 +46,6 @@ cd tensorflow-test
    
    '''
 5. Install packages
-   '''
+   ''' python
    conda install jupyter pandas numpy matplotlib scikit-learn
    '''
