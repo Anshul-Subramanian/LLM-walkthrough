@@ -10,27 +10,27 @@ Detecting generated texts: https://github.com/junchaoIU/LLM-generated-Text-Detec
 
 ## Windows
 
-Follow steps mentioned in https://docs.conda.io/projects/conda/en/latest/user-guide/install/windows.html to install conda
+Follow steps mentioned in [Link](https://docs.conda.io/projects/conda/en/latest/user-guide/install/windows.html) to install conda
 
 ## MacOS
 
-1. Download and install Homebrew from https://brew.sh. Follow the steps it prompts you to go through after installation.
-2. Download Miniforge3 (https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-MacOSX-arm64.sh) for macOS arm64 chips.
+1. Download and install [Homebrew](https://brew.sh). Follow the steps it prompts you to go through after installation.
+2. Download [Miniforge3](https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-MacOSX-arm64.sh) for macOS arm64 chips.
 3. Install Miniforge3 into home directory with the commands below.
 
-``` 
-chmod +x ~/Downloads/Miniforge3-MacOSX-arm64.sh
-sh ~/Downloads/Miniforge3-MacOSX-arm64.sh
-source ~/miniforge3/bin/activate
-```
+   ``` 
+   chmod +x ~/Downloads/Miniforge3-MacOSX-arm64.sh
+   sh ~/Downloads/Miniforge3-MacOSX-arm64.sh
+   source ~/miniforge3/bin/activate
+   ```
 
 4. Restart terminal.
 5. Create a directory to setup TensorFlow environment.
 
-```
-mkdir tensorflow-test
-cd tensorflow-test
-```
+   ```
+   mkdir tensorflow-test
+   cd tensorflow-test
+   ```
 
 # Create Environment
 
